@@ -1,0 +1,6 @@
+{
+    "MANAGER": "workload.us-1.cloudone.trendmicro.com",
+    "APIKEY" : "ApiKey YourAPIKey",
+    "REPORTNAME" : "C1WS_Agent_Report",
+    "POLICYID" : ""
+}
