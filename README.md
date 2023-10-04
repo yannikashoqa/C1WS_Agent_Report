@@ -26,4 +26,3 @@ REQUIRMENTS
 - The API Key format in the TM-Config.json is "ApiKey YourAPIKey"
 - POLICYID can be blank which will generate a report of all systems
 - If POLICYID is used the report will only include systems using this Policy ID number
-- Test
